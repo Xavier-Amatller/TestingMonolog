@@ -1,4 +1,7 @@
 <?php
+
+require __DIR__ . '../vendor/autoload.php';
+
 $steps=0;
 // load dependencies
 require './vendor/autoload.php'; 

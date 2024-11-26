@@ -1,0 +1,19 @@
+{
+    "name": "xavier/testingmonolog",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Xavier\\Testingmonolog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Xavier-Amatller",
+            "email": "reyo2004@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "monolog/monolog": "^3.8"
+    }
+}
